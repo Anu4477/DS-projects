@@ -8,7 +8,11 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
+<<<<<<< HEAD
 set VIRTUAL_ENV=C:\Users\anuus\OneDrive\Desktop\E-commerce\venv
+=======
+set VIRTUAL_ENV=C:\Users\anuus\OneDrive\Desktop\weather report\venv
+>>>>>>> 00cefe2146c098a608d6dec59c706c38c75b7a3d
 
 if not defined PROMPT set PROMPT=$P$G
 
